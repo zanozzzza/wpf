@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Custs>
+  <Cust Kod="001">
+    <Date>12.12.23</Date>
+    <FamilC>Иванов</FamilC>
+    <NameC>Иван</NameC>
+    <OtchC>Иванович</OtchC>
+  </Cust>
+  <Cust Kod="002">
+    <Date>01.01.23</Date>
+    <FamilC>Петров</FamilC>
+    <NameC>Пётр</NameC>
+    <OtchC>Петрович</OtchC>
+  </Cust>
+  <Cust Kod="003">
+    <Date>15.09.23</Date>
+    <FamilC>Аннина</FamilC>
+    <NameC>Анна</NameC>
+    <OtchC>Анновна</OtchC>
+  </Cust>
+</Custs>

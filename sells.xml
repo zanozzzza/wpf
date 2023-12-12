@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sells>
+  <Sell>
+    <KodI>1</KodI>
+    <Date>12.12.23</Date>
+    <FamilC>Иванов</FamilC>
+    <NameC>Иван</NameC>
+    <OtchC>Иванович</OtchC>
+    <Izdelie>3</Izdelie>
+  </Sell>
+  <Sell>
+    <KodI>2</KodI>
+    <Date>01.01.23</Date>
+    <FamilC>Петров</FamilC>
+    <NameC>Пётр</NameC>
+    <OtchC>Петрович</OtchC>
+    <Izdelie>1</Izdelie>
+  </Sell>
+  <Sell>
+    <KodI>3</KodI>
+    <Date>15.09.23</Date>
+    <FamilC>Аннина</FamilC>
+    <NameC>Анна</NameC>
+    <OtchC>Анновна</OtchC>
+    <Izdelie>1,2</Izdelie>
+  </Sell>
+  <Sell>
+    <KodI>4</KodI>
+    <Date>12.12.23</Date>
+    <FamilC>Богатейкин</FamilC>
+    <NameC>Богатик</NameC>
+    <OtchC>Богатович</OtchC>
+    <Izdelie>3, 5, 10</Izdelie>
+  </Sell>
+</Sells>

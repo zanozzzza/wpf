@@ -1,0 +1,79 @@
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\glavform.g.cs
+C:\Users\Admin\Source\Repos\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Source\Repos\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Source\Repos\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\glavform.baml
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\ITEMS.g.cs
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\MATERIALS.g.cs
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\SELLS.g.cs
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\ITEMS.baml
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\MATERIALS.baml
+C:\Users\Admin\Source\Repos\WpfApp1\obj\Debug\SELLS.baml
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\glavform.g.cs
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\glavform.baml
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\11\Desktop\WpfApp1\obj\Debug\glavform.g.cs
+C:\Users\11\Desktop\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\11\Desktop\WpfApp1\obj\Debug\App.g.cs
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\11\Desktop\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\11\Desktop\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\11\Desktop\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\11\Desktop\WpfApp1\obj\Debug\glavform.baml
+C:\Users\11\Desktop\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\11\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WpfApp1 29 11\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Desktop\WpfApp1 29 11\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\WpfApp1 29 11\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\glavform.g.cs
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\glavform.baml
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Desktop\WpfApp1 29 11\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\Registr.g.cs
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\Registr.baml
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\PagePocupka.g.cs
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\PagePocupka.baml
+C:\Users\Admin\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache

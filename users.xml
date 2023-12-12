@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <login>1</login>
+    <pass>1</pass>
+  </User>
+  <User>
+    <login>2</login>
+    <pass>2</pass>
+  </User>
+  <User>
+    <login>3</login>
+    <pass>3</pass>
+  </User>
+  <User>
+    <login>5</login>
+    <pass>5</pass>
+  </User>
+  <User>
+    <login>0</login>
+    <pass>0</pass>
+  </User>
+  <User>
+    <login></login>
+    <pass></pass>
+  </User>
+  <User>
+    <login></login>
+    <pass></pass>
+  </User>
+  <User>
+    <login>123</login>
+    <pass>321</pass>
+  </User>
+  <User>
+    <login>1234</login>
+    <pass>1234</pass>
+  </User>
+</Users>

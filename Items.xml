@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item KodI="2">
+    <NameI>Кольцо</NameI>
+    <TypeI>Кольцо</TypeI>
+    <KodM>1</KodM>
+    <Weight>50</Weight>
+    <Price>999999</Price>
+  </Item>
+  <Item KodI="3">
+    <NameI>4</NameI>
+    <TypeI>4</TypeI>
+    <KodM>4</KodM>
+    <Weight>4</Weight>
+    <Price>4</Price>
+  </Item>
+</Items>

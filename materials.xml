@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Materials>
+  <Material KodM="1">
+    <NameM>Золото</NameM>
+    <PriceG>10000</PriceG>
+  </Material>
+  <Material KodM="2">
+    <NameM>Серебро</NameM>
+    <PriceG>999</PriceG>
+  </Material>
+  <Material KodM="3">
+    <NameM>Камушки</NameM>
+    <PriceG>10</PriceG>
+  </Material>
+  <Material KodM="4">
+    <NameM>Глина</NameM>
+    <PriceG>1</PriceG>
+  </Material>
+</Materials>
